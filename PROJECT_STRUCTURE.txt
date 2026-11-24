@@ -1,0 +1,8 @@
+lead-intelligence-system/
+├── main.py                 # CLI, batch LLM calls, retries, fallback, scoring and report
+├── leads.csv               # 36 diverse sample leads
+├── output_report.json      # Example report generated in demo mode
+├── requirements.txt        # Python dependencies
+├── .env.example            # API key template (no real secret)
+├── README.md               # Setup, rubric, limitations
+└── test_prompts.py         # Smoke tests
